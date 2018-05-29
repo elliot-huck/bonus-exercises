@@ -1,0 +1,1 @@
+Some bonus exercises to practice JS logicgs
